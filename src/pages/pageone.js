@@ -39,11 +39,8 @@ const PageOne = () => {
                 <div className="item item5">item5</div>
                 <div className="item item6">item6</div>
                 <div className="item item7">item7</div>
-
-                
-                
-<div className="item item7">item8</div>
-<div className="item item7">item9</div>
+                <div className="item item7">item8</div>
+                <div className="item item7">item9</div>
             </div>
         </>
     )

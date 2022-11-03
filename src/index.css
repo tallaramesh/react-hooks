@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main{
+  display: flex;
+  border: 2px solid black;
+  flex-direction: column;
+}
+.item{
+  padding: 2rem;
+}
+.item1{
+  background-color: rgb(146, 83, 0);
+}
+.item2{
+  background-color: rgb(185, 142, 85);
+}
+.item3{
+  background-color: rgb(139, 230, 116);
+}
+.item4{
+  background-color: rgb(33, 114, 158);
+}
+.item5{
+  background-color: rgb(210, 35, 35);
+}
+.item6{
+  background-color: rgb(157, 24, 104);
+}
+.item7{
+  background-color: rgb(179, 137, 137);
+}
